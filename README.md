@@ -10,9 +10,9 @@ While there are some NFT projects that aim to empower individuals, the topic of 
 
 ![Process](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/913/576/datas/original.png)
 
-**AElf blockchain powered and NFT driven solution ** helped us to create a community alongside our application, allowing us to grow with our users. This has the added benefit of promoting mental health awareness while also creating a secure environment for our consumers.
+**AElf blockchain powered and NFT driven solution** helped us to create a community alongside our application, allowing us to grow with our users. This has the added benefit of promoting mental health awareness while also creating a secure environment for our consumers.
 
-##What it does
+## What it does
 Our emotions are always hidden and suppressed in mental health. We keep it so close to us that it eventually becomes oppressive and suffocating.
 
 To ensure we don't miss proven patterns in the actual world, the solution addresses new ways of interacting in the metaverse, as well as the power of community and discovering connections.
