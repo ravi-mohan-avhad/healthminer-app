@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <PackageProjectUrl>healthminer</PackageProjectUrl>
+    <Version>$(VersionSuffix)</Version>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/ravi-mohan-avhad/healthminer-app</RepositoryUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../../LICENSE" Pack="true" PackagePath=""/>
+  </ItemGroup>
+
+</Project>
